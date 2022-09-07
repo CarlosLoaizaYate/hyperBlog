@@ -3,3 +3,9 @@ body {
     color: aquamarine;
     font-family: Arial, Helvetica, sans-serif;
 }
+#container
+{
+    width: 10%;
+    padding: 1em;
+    text-align: left;
+}
